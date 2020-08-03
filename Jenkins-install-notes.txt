@@ -1,0 +1,13 @@
+path:
+
+c:\program files (x86)\jenkins\
+
+secret password location: C:\Program Files (x86)\Jenkins\secrets
+
+
+--------------------------------------------------------------
+user: admin
+password: admin
+
+
+
